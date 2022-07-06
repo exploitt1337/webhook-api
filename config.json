@@ -1,0 +1,10 @@
+{
+  
+  "hooks": {
+    "hook1": "https://canary.discord.com/api/webhooks/992078539262267432/TTaubs9pe9-OKxxtYVkAb3ZpZKFn9eIww39t-0pfbnfjPDV9TA_ml1rYL0fLRnHeoKeE",  
+    "hook2": "https://canary.discord.com/api/webhooks/993058765060456478/B0mo_s7lICnI8zbqmWxFTRnubZyTgtkkyi2VOm2JZ8haFvNM0eUgHNwz7x6zn4vTnsuv",  
+    "hook3": "https://canary.discord.com/api/webhooks/993058805137027092/zCLBReedkIzMF9xgFP1FYhY3SyDiTjr5ZQtAQz2e7UYnCGoR5HJWxn3Q2GYdAK1gsyFw",  
+    "hook4": "https://canary.discord.com/api/webhooks/993058836866936843/xH7BiVd4w3FgNRtYg4CHVWPXrGGETQ_bUMQZo3MIB519ilJi1bvyaGyP0SXpg1zjSVkF",  
+    "hook5": "https://canary.discord.com/api/webhooks/993058872711450634/aBvywAMGCmdJqrUSyDnTxLdJW98PNTHA9aORQ9zztjGWvGB2qcFTQdA-pb-GMn6ceoCB"
+  }
+}
